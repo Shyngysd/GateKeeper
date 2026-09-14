@@ -7,7 +7,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-Latest-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-purple.svg)
 
-## ✨ Функциональность
+## ✨ Функциональность  
 
 - ✅ **Регистрация и вход** по email/паролю
 - ✅ **Google Sign-In** для быстрого входа
