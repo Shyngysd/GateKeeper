@@ -27,14 +27,13 @@
 │   Firebase инициализация              │
 │   StreamBuilder для маршрутизации     │
 └────────────┬────────────────────────┘
-             │
-      ┌──────┴──────┐
-      ▼             ▼
-  LoginScreen   HomeScreen
-  (sign up,    (profile,
-   sign in,     edit,
-   forgot pwd)  logout)
-```
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+   LoginScreen   HomeScreen
+   (sign up,    (profile,     sign in,     edit,
+    forgot pwd)  logout)
+` ``
 
 **Слои:**
 - 🎨 **UI Layer**: `LoginScreen`, `HomeScreen`
