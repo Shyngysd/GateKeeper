@@ -102,6 +102,8 @@ try {
 }
 ```
 
+
+
 ### Riverpod использование
 ```dart
 final authState = ref.watch(authStateChangesProvider);
@@ -128,15 +130,15 @@ authState.when(
 
 ```
 User Input
-    ↓
+     ↓
 LoginScreen / HomeScreen (UI)
-    ↓
+     ↓
 AuthService / AuthNotifier (Business Logic)
-    ↓
+     ↓
 Firebase Auth (Backend)
-    ↓
+     ↓
 StreamBuilder (Router)
-    ↓
+     ↓
 Show HomeScreen / LoginScreen
 ```
 
